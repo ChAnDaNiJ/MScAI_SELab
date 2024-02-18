@@ -1,2 +1,2 @@
 # MScAI_SELab
-Software Engineering Lab
+MScAI_Software Engineering Lab
